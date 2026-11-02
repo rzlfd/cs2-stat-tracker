@@ -8,8 +8,8 @@ MVP
 - Fetch CS2 stats from the Steam Web API
 - Calculate K/D, average damage per round, MVPs
 - Print the result
+  
 Diagram
-
 ![System diagram](docs/system-diagram.png)
 
 Plans
